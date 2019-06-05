@@ -35,7 +35,7 @@ Task 5
 1. mkdir mydocument cd mydocument
 2. touch pad.txt 
 3. cd..  mkdir work   cd mydocument
-3. cp pad.txt ~/Desktop/work/pad_copy.txt
+3. cp pad.txt ~/Desktop/pad_copy.txt
 4. sudo updatedb  cd..
 5. locate pad_copy.txt
 
